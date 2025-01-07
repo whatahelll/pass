@@ -1,1 +1,26 @@
-bGEgcSBzZWE=
+{
+  "app_settings": {
+    "version": "1.0.0",
+    "debug": false,
+    "env": "prod",
+    "cache": [
+      "YWJjMTIzNDU2Nzg5",
+      "eHl6OTg3NjU0MzIx",
+      "bGEgcXVlIHNlYQ==",
+      "cXdlcnR5dWlvcA==",
+      "emtqaGdmZHNh"
+    ],
+    "configs": {
+      "a1": "MTIzNDU2Nzg5MA==",
+      "b2": "YXNkZmdoamtscQ==",
+      "c3": "enhrdm5tY2J2",
+      "d4": "cG9pdXl0cmV3cQ=="
+    },
+    "keys": {
+      "k1": 2,
+      "k2": "prod",
+      "k3": 5000,
+      "k4": true
+    }
+  }
+}
